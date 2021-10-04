@@ -249,3 +249,14 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+
+<p align="center">
+	<a href="https://friends.kookbang.kr/">
+		<img src="/image/DEMO_BUTTON.png" />
+	</a>
+	<a href="https://kjeonghoon065.gitbook.io/kookbangfriends/">
+		<img src="/image/DOCUMNET_BUTTON.png" />
+	</a>
+	<a href="https://github.com/dsvp/WEB_KookbangFriends_Woowahan/issues?page=1&q=is%3Aissue+is%3Aclosed">
+		<img src="/image/ISSUE_BUTTON.png" />
+	</a>
